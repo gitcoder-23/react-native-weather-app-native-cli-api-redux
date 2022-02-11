@@ -1,7 +1,19 @@
-# React Native & Redux Weather App 
+# React Native & Redux Weather App
 
 Weather app with react native & redux using openweathermap api.
 
-[Blog Post](https://codingfromscratch.dev/weather-app-with-react-native-redux)
+### Async Storage
 
-[Youtube video](https://youtu.be/Af36ojofSQE)
+https://www.npmjs.com/package/@react-native-async-storage/async-storage
+
+##
+
+https://react-native-async-storage.github.io/async-storage/docs/install/
+
+##
+
+https://www.npmjs.com/package/@react-native-async-storage/async-storage
+
+# start
+
+npx react-native run-android/ start
